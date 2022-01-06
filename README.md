@@ -5,7 +5,6 @@
 </p>
 
 ---
-✨ 
 
 - 🔭 I’m currently working on [Tugboat](https://www.tugboat.qa) aka Tubgoat 🛁🐐
 - 😄 Pronouns: he/him
