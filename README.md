@@ -11,3 +11,5 @@
 - 💬 Ask me about: CI/CD, DevOps, Docker, Shell scripting, and of course…[Tugboat](https://www.tugboat.qa)!
 - 📫 How to reach me: [@q0rban](https://twitter.com/q0rban)
 - ⚡ Fun fact: I'm a sucker for silly goat gifs and emoji.
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=q0rban&show_icons=true&theme=onedark) -->
